@@ -6,7 +6,7 @@ import mdx from "@astrojs/mdx";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://celestial.hyperoot.dev",
+  site: "https://yian1024.pages.dev",
   markdown: {
     smartypants: true,
     syntaxHighlight: "shiki",
